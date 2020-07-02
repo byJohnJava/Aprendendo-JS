@@ -5,7 +5,10 @@ while (contador <= 10) {
 }
 
 for(let i = 1; i <= 10; i++){
-	console.log(`contador = ${i}`)
+	console.log(`i = ${i}`)
 }
 
-
+const notas = [4.8, 6.7, 8.3, 9.2, 7.9]
+for(let i = 0; i < notas.length; i++){
+    console.log(`nota = ${notas[i]}`)
+}
