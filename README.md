@@ -1,2 +1,2 @@
-# Aprendendo-JS
-Respositório com alguns códigos Javascript
+# Learning-JS
+Repository with some codes Javascript
